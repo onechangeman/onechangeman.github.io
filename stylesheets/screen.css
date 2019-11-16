@@ -80,9 +80,9 @@ body>div>div{
     background:#030a2d
 }
 @font-face{
-    font-family:'BebasNeue';
-    src:url('/fonts/BebasNeue-regular.eot?1474468950');
-    src:url("/fonts/BebasNeue-regular.eot?1474468950#iefix") format("embedded-opentype"),url('/fonts/BebasNeue-regular.woff?1474468950') format("woff"),url('/fonts/BebasNeue-regular.ttf?1474468950') format("truetype"),url("/fonts/BebasNeue-regular.svg?1474468950#BebasNeue") format("svg");
+    font-family:'CubanoRegular';
+    src:url('/fonts/cubano-regular-webfont.eot?1474468950');
+    src:url("/fonts/cubano-regular-webfont.eot?1474468950#iefix") format("embedded-opentype"),url('/fonts/cubano-regular-webfont.woff?1474468950') format("woff"),url('/fonts/cubano-regular-webfont.ttf?1474468950') format("truetype"),url("/fonts/cubano-regular-webfont.svg?1474468950#CubanoRegular") format("svg");
     font-weight:normal;
     font-style:normal
 }
@@ -94,7 +94,7 @@ body>div>div{
     font-style:normal
 }
 header h1{
-    font-family:"BebasNeue","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif
+    font-family:"CubanoRegular","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif
 }
 .sans,body,body>header h2,article header p.meta,article>footer,#content .blog-index footer,html .gist .gist-file .gist-meta,#blog-archives a.category,#blog-archives time,aside.sidebar section,body>footer{
     font-family:"Source Sans Pro","Helvetica Neue",Arial,sans-serif
@@ -107,13 +107,13 @@ header h1{
 }
 body>header h1{
     font-size:2.2em;
-    font-family:"BebasNeue","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif;
+    font-family:"CubanoRegular","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
     line-height:1.2em;
     margin-bottom:0.6667em
 }
 body>header h2{
-    font-family:"BebasNeue","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif
+    font-family:"CubanoRegular","PT Serif","Georgia","Helvetica Neue",Arial,sans-serif
 }
 body{
     line-height:1.3em;
@@ -128,7 +128,7 @@ h1{
     color:#d04e38
 }
 .categories .category{
-    background-color:#943221;
+    background-color:#030a2d;
     display:inline-block;
     padding:0px 10px;
     margin-right:10px;
