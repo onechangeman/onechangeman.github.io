@@ -496,7 +496,7 @@ body.sidebar-footer .toggle-sidebar{
         border-right:0
     }
     .collapse-sidebar #content{
-        margin-right:20px
+        margin-right:0px
     }
     #content>div,#content>article{
         padding-top:17.5px;
