@@ -836,13 +836,9 @@ body>nav ul {
     body>nav li+li {
         margin-left: .8em
     }
-    body>nav li+li a {
-        padding-left: .8em
-    }
     body>nav form {
         float: right;
         text-align: left;
-        padding-left: .8em;
         width: 175px
     }
     body>nav form .search {
@@ -1644,7 +1640,6 @@ figure.code .highlight {
     z-index: 1;
     font-size: 13px;
     text-shadow: #cbcccc 0 1px 0;
-    padding-left: 3em
 }
 
 .download-source:hover, html .gist .gist-file .gist-meta a[href*=raw]:hover, figure.code figcaption a:hover, .download-source:focus, html .gist .gist-file .gist-meta a[href*=raw]:focus, figure.code figcaption a:focus {
@@ -1759,7 +1754,6 @@ figure.code .highlight {
         display: none
     }
     #blog-archives article {
-        padding-left: 4.5em;
         padding-bottom: .7em
     }
     #blog-archives a.category {
@@ -1774,7 +1768,6 @@ figure.code .highlight {
 
 #content>.category article {
     margin-left: 0;
-    padding-left: 6.8em
 }
 
 #content>.category .year {
@@ -1938,7 +1931,6 @@ aside.sidebar .search:focus {
 
 #tweets p {
     position: relative;
-    padding-right: 1em
 }
 
 #tweets a[href*=status]:first-child {
