@@ -1405,7 +1405,6 @@ article > footer p.meta {
 }
 
 #content .blog-index a[rel=full-article]:hover {
-    background: #943221;
     text-shadow: none;
     color: #f8f8f8
 }
