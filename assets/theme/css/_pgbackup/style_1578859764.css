@@ -1,22 +1,19 @@
+/*!
+ * Mobirise v4 theme (https://mobirise.com/)
+ * Copyright 2017 Mobirise
+ */
 section {
   background-color: #eeeeee; }
 
 body {
   font-style: normal;
-  line-height: 1.5; 
-    margin: 2.5%
-}
+  line-height: 1.5; }
 
 section,
 .container,
 .container-fluid {
   position: relative;
   word-wrap: break-word; }
-
-section.changes {
-    margin: 5%;
-    align-content: center;
-}
 
 a.mbr-iconfont:hover {
   text-decoration: none; }
@@ -27,10 +24,6 @@ a.mbr-iconfont:hover {
 .article .lead pre,
 .article .lead blockquote {
   margin-bottom: 0; }
-
-video.lazyloaded {
-    width: 100%;
-}
 
 ul,
 ol,
@@ -595,13 +588,6 @@ blockquote {
   background-size: 200% 200%;
   animation: gradient-animation 5s infinite alternate;
   -webkit-animation: gradient-animation 5s infinite alternate; }
-
-.caption{
-    color: #222222;
-    text-align: center;
-    align: center;
-    font-size: 120%;
-}
 
 .menu .navbar-brand {
   display: -webkit-flex; }
